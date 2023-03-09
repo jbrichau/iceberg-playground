@@ -4,6 +4,7 @@ true == ![]; // -> false
 toNumber(true); // -> 1
 toNumber([]); // -> 0
 
+
 1 == 0; // -> false
 true == ![]; // -> false
 
