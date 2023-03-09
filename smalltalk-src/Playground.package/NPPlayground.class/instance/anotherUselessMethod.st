@@ -1,5 +1,5 @@
 as yet unclassified
-anotherMethod
+anotherUselessMethod
 
 	| b |
 	Transcript show: 'I am useless.'.
