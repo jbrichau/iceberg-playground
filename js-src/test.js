@@ -14,4 +14,4 @@ true == false; // -> false
 
 "b" + "a" + +"a" + "a"; // -> 'baNaNa'
 
-"the staging area"
+"SOMETHING COMPLETELY DIFFERENT"
