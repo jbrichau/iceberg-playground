@@ -13,3 +13,5 @@ true == ![]; // -> false
 true == false; // -> false
 
 "b" + "a" + +"a" + "a"; // -> 'baNaNa'
+
+"I made these changes and put them in the staging area"
